@@ -1,7 +1,8 @@
 ## Hi👋,I'm Darshan T G
 # 💫 About Me:
-I am a student!
+**I am a student!**
 
+[![](https://visitcount.itsvg.in/api?id=Darshantg56&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan._tg) 
@@ -14,6 +15,5 @@ I am a student!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshantg56&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Darshantg56&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
